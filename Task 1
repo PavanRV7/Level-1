@@ -1,0 +1,15 @@
+l = [23,35,63]
+l.append(5)
+l
+
+set_var = set()
+set_var = {22,46,18}
+set_var
+
+t = (13,57,71)
+t
+
+d = {'One':1, 'Three':3}
+c = {'Five':5}
+d.update(c)
+d
